@@ -1,7 +1,7 @@
 
 # Final-Year-Machine-Learning-watch-Price-Prediction-Project
 
-Project on Machine Learning watch  Prediction through Deep Learning
+Project on Machine Learning watch  Prediction through ML
 
 # watch-Price-Prediction:
 ## description-
